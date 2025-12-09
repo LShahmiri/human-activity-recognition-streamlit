@@ -2,7 +2,7 @@
 # Human Activity Recognition (OpenPose + 3D CNN)
 
 
-<img width="477" height="1232" alt="image" src="https://github.com/user-attachments/assets/8bee4a4b-f660-4f68-9aaa-c2d5a9dffe74" />
+                  <img width="477" height="1232" alt="image" src="https://github.com/user-attachments/assets/bbae957b-1176-4e18-b7af-d56c6a0b254f" />
 
 
 
